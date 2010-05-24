@@ -1,0 +1,10 @@
+{
+    "name": "bespin",
+	"description": "Mozilla bespin powers source mode",
+    "author": "Garry Yao",
+	"version": [
+		"0",
+		"1"
+	],
+    "dependencies": [ "sourcearea" ]
+}
